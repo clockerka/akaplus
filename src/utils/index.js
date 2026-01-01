@@ -1,0 +1,1 @@
+export const akaplus = '/assets/images/akaplus.svg';
